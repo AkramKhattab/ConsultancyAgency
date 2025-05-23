@@ -1,0 +1,84 @@
+/* Spinner styles */
+.spinner-size {
+    width: 3rem;
+    height: 3rem;
+}
+
+/* Footer styles */
+.footer-margin {
+    margin-top: 6rem;
+}
+
+/* Newsletter input styles */
+.newsletter-input {
+    height: 48px;
+}
+
+/* Favicon styles */
+.favicon-emoji {
+    font-size: 90px;
+    y: 0.9em;
+}
+
+/* Newsletter section styles */
+.newsletter-height {
+    height: 250px;
+}
+
+.newsletter-image {
+    max-height: 250px;
+}
+
+/* Service section styles */
+.service-max-width {
+    max-width: 600px;
+}
+
+/* Hero image styles */
+.hero-image {
+    max-width: 100%;
+    height: auto;
+}
+
+/* About image styles */
+.about-image {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Team member image styles */
+.team-image {
+    width: 100%;
+    height: auto;
+}
+
+/* Testimonial image styles */
+.testimonial-image {
+    width: 100%;
+    height: auto;
+}
+
+/* Contact form styles */
+.contact-form-height {
+    height: 48px;
+}
+
+/* Quote form styles */
+.quote-form-height {
+    height: 48px;
+}
+
+/* Team section styles */
+.team-max-width {
+    max-width: 600px;
+}
+
+/* Message textarea styles */
+.message-textarea {
+    height: 150px;
+}
+
+/* Quote section styles */
+.quote-max-width {
+    max-width: 600px;
+} 
